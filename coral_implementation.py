@@ -1,8 +1,12 @@
 # encoding=utf-8
-"""
-    Created on 16:31 2018/11/13 
-    @author: Jindong Wang
-"""
+# ***************************************************************************************
+# *    Title: CORAL implementation
+# *    Author: Jindong Wang
+# *    Date: 13 November, 2018
+# *    Code version: NN
+# *    Availability: https://github.com/jindongwang/transferlearning/blob/master/code/traditional/CORAL/CORAL.py
+# *
+# ***************************************************************************************
 
 import numpy as np
 import scipy.io
